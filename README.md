@@ -1,5 +1,8 @@
 # am574-student00
 
-Some changes
-More changes
-Some other changes to the readme.
+An example of how to link to a pdf file for your report:
+
+* [sample.pdf](report/sample.pdf)
+
+
+
